@@ -1,7 +1,4 @@
 
----
-
-```markdown
 #  FraudNix
 
 **FraudNix** is a complete full-stack demo for simulating financial transactions and classifying them as **Approved**, **Flagged**, or **Fraudulent** using a live-trained machine learning model.  
