@@ -166,8 +166,3 @@ Ensure `pymysql` is installed (already listed in `requirements.txt`).
 * The included `test_data.csv` is not used by default but can be used for evaluation.
 * The frontend is lightweight and does **not require a build toolchain** — it uses vanilla JS and the Fetch API.
 
-
-```
-
----
-`
